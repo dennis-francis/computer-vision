@@ -1,0 +1,24 @@
+﻿Vision Transformer (ViT) Image Classification Model  (“vit-base-patch16-clip-224”)
+
+
+Accuracy: 0.9579
+              precision    recall  f1-score   support
+
+
+           0       0.98      0.92      0.95        50
+           1       0.94      1.00      0.97        50
+           2       0.90      1.00      0.95        46
+           3       1.00      0.96      0.98        50
+           4       0.98      0.98      0.98        56
+           5       0.94      0.89      0.92        57
+
+
+    accuracy                           0.96       309
+   macro avg       0.96      0.96      0.96       309
+weighted avg       0.96      0.96      0.96       309
+
+
+Model has 86 million parameters.
+Input Dimensions: 224 x 224 tensors
+Epochs: 3
+Learning Rate: 0.1
