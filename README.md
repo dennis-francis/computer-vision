@@ -20,3 +20,11 @@ A vision transformer is an AI model similar to ChatGPT, but reconfigured to work
 
 
 <img src="https://github.com/dennis-francis/computer-vision/blob/main/model-results.png" alt="graph" height="400" width="600">
+
+
+## Check out my work
+To see the detail of my work and analysis, you can browse through these two files. The work was done using Jupyter Notebook and coded up in Python. 
+
+[Exploratory Data Analysis and Wrangling of the c-store images](https://github.com/dennis-francis/computer-vision/blob/main/Capstone%203%20EDA%20and%20Wrangling%20Retail%20Photos.ipynb)
+
+[Model Performance and results](https://github.com/dennis-francis/computer-vision/blob/main/Capstone%203%20Preprocessing%20%26%20Modeling.ipynb)
